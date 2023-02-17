@@ -1,0 +1,31 @@
+{
+    "usuarios": {
+        "pepe": {
+            "nombre": "Pepe",
+            "apellidos": "Gonzalez García",
+            "email": "pepito34@gmail.com",
+            "nombreusu": "pepe",
+            "contraseña": "Pestillo123",
+            "direcciones": "",
+            "tarjetas": ""
+        },
+        "rosa": {
+            "nombre": "rosa",
+            "apellidos": "Rodriguez Ceballo",
+            "email": "rosasa@gmail.com",
+            "nombreusu": "larosa",
+            "contraseña": "Pestillo123",
+            "direcciones": "",
+            "tarjetas": ""
+        },
+        "superusu": {
+            "nombre": "usuario",
+            "apellidos": "usu sus",
+            "email": "superusu666@gmail.com",
+            "nombreusu": "usuario",
+            "contraseña": "Pestillo123",
+            "direcciones": "",
+            "tarjetas": ""
+        }
+    }
+}

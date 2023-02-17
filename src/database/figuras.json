@@ -1,0 +1,64 @@
+{
+    "figuras":{
+        "eren":{
+            "nombre": "Figura Eren Yaeger",
+            "colecciones": "NENDOROID",
+            "descripcion": "Good Smile presenta dentro de su línea de productos la figura de EREN YEAGER FIG 10 CM ATTACK ON THE TITAN NENDOROID . Se trata de una figura articulada hecha en PVC. Incluye base para su exposición y complementos",
+            "serie": "Ataque a los titanes",
+            "fabricante": "Good Smile Company",
+            "fecha-venta": "20/10/2022",
+            "ISBN": "4580590127807",
+            "tamaño": "10 cm",
+            "precio": "60,33 €",
+            "imagen": "../images/figure-eren-yeager.jpeg"
+        },
+        "rei":{
+            "nombre": "FIGURA REI AYANAMI VER. LONG HAIR ",
+            "colecciones": "SEGA, SPM SEGA",
+            "descripcion": "Figura de REI AYANAMI VER LONG HAIR de 21 CM EVANGELION 3.0+1.0 SPM FIGURE. Se trata de una figura hecha en PVC. Incluye base para su exposición.",
+            "serie": "Evangelion",
+            "fabricante": "",
+            "fecha-venta": "20/1/2023",
+            "ISBN": "4580779503002",
+            "tamaño": "21 cm",
+            "precio": "22,33 €",
+            "imagen": "../images/rei-ayanami.jpeg"
+        },
+        "zenitsu": {
+            "nombre": "FIGURA ZENITSU AGATSUMA",
+            "colecciones": "GRANDISTA",
+            "descripcion": "Banpresto presenta para la colección Grandista la figura de Zenitsu Agatsuma del popular manga y anime 'Demon Slayer Kimetsu no Yaiba'. Esta figura está hecha en PVC, mide unos 24 cm de alto. Incluye base soporte para exposición.",
+            "serie": "Kimetsu no Yaiba",
+            "fabricante": "Banpresto",
+            "fecha-venta": "27/12/2022",
+            "ISBN": "4983164177404",
+            "tamaño": "24 cm",
+            "precio": "33,06 €",
+            "imagen": "../images/zenitsu.jpeg"
+        },
+        "miku":{
+            "nombre": "FIGURA HATSUNE MIKU CASUAL WEAR ",
+            "colecciones": "Taito",
+            "descripcion": "Figura de PVC de  Hatsune Miku Casual Wear ver. Mide 13cm aprox.",
+            "serie": "",
+            "fabricante": "Taito",
+            "fecha-venta": "2/2/2023",
+            "ISBN": "662248844077",
+            "tamaño": "13cm",
+            "precio": "26,60 €",
+            "imagen": "../images/hatsune-miku.jpeg"
+        },
+        "anya":{
+            "nombre": "FIGURA ANYA FORGER RENEWAL EDITION SMILE",
+            "colecciones": "PUCHIEETE",
+            "descripcion": "Figura de Anya Forger Renewal Smiler ver. de Spy x Family. Mide 14cm aprox.",
+            "serie": "Spy Family",
+            "fabricante": "Taito",
+            "fecha-venta": "17/2/2023",
+            "ISBN": "662248844107",
+            "tamaño": "14 cm",
+            "precio": "25,65 €",
+            "imagen": "../images/anya.jpeg"
+        }
+    }
+}
