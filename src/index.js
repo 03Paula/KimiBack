@@ -1,6 +1,12 @@
 const express = require("express")
-const app = express()
+const app = express();
+const cors = require("cors");
 const rutasV1 = require("./routes/v1/indexRoutes.js")
+
+
+app.use(cors({
+  origin: '*'
+}));
 
 app.use(express.json())
 app.use("/api/v1", rutasV1.router);
