@@ -15,9 +15,9 @@ const getOneFigura = (req, res, next) => {
     const OneFigura = figurasServices.getOneFigura(figura)
 
     if (OneFigura) {
-        res.send(OneFigura)
+        res.status(200).send(OneFigura);
     } else {
-        res.status(404)
+        res.status(404);
     }
     
 };

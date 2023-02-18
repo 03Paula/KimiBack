@@ -15,9 +15,9 @@ const getOneManga = (req, res, next) => {
     const OneManga = mangasServices.getOneManga(manga)
 
     if (OneManga) {
-        res.send(OneManga)
+        res.status(200).send(OneManga);
     } else {
-        res.status(404)
+        res.status(404);
     }
 };
 
