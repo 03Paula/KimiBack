@@ -11,7 +11,7 @@
             "ISBN": 9788467947076,
             "color": "B/N + color",
             "precio": "15,20 €",
-            "imagen": "../images/tokyo_revengers_1.jpg"
+            "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/20/604d865f7d886a48938c6b0534b9a610fe8e97e4.jpeg"
         },
         "buenas-noches-pun-pun": {
             "nombre": "Buenas noches, Pun Pun 01",
@@ -24,7 +24,7 @@
             "ISBN": 9788467920574,
             "color": "B/N",
             "precio": "8,50 €",
-            "imagen": "../images/pun_pun.jpeg"
+            "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/1dd8f1b2ac33762e50f34a87deec8d10cb46db2d.jpeg"
         },
         "jujutsu-kaisen": {
             "nombre": "Jujutsu Kaisen 01",
@@ -37,7 +37,7 @@
             "ISBN": 9788467940657,
             "color": "B/N",
             "precio": "7,60 €",
-            "imagen": "../images/jujutsu_kaisen_1.jpeg"
+            "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/9b1d37c0c634d9c3b88121e3ac6e7e9921128d0c.jpeg"
         },
         "berserk": {
             "nombre": "Berserk 01",
@@ -50,7 +50,7 @@
             "ISBN": 9788411015035,
             "color": "B/N",
             "precio": "16.10 €",
-            "imagen": "../images/maximum-berserk-1.jpeg"
+            "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/image/588x473/9df78eab33525d08d6e5fb8d27136e95/b/e/berserk_14.jpg"
         },
         "orange": {
             "nombre": "Orange 01",
@@ -63,7 +63,7 @@
             "ISBN": 9788416188086,
             "color": "B/N",
             "precio": "7,60 €",
-            "imagen": "../images/orange.jpeg"
+            "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/image/588x473/9df78eab33525d08d6e5fb8d27136e95/5/6/56306500101_G.jpg"
         },
         "blue-lock": {
             "nombre": "Blue Lock 01",
@@ -76,7 +76,7 @@
             "ISBN": 9788411123747,
             "color": "B/N",
             "precio": "7,55 €",
-            "imagen": "../images/blueLock.jpeg"
+            "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/image/588x473/9df78eab33525d08d6e5fb8d27136e95/b/l/blue_lock_1.jpg"
         },
         "blue-exorcist": {
             "nombre": "Blue Exorcist 01",
@@ -89,7 +89,7 @@
             "ISBN": 9788467908800,
             "color": "B/N + 2 pág Color",
             "precio": "7.13 €",
-            "imagen": "../images/blue_exorcist.jpeg"
+            "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/04/thumb_3580_albumes_big.jpeg"
         },
         "noragami": {
             "nombre": "Noragami 01",
@@ -102,7 +102,7 @@
             "ISBN": 9788467920673,
             "color": "B/N + 2 Color",
             "precio": "7,60 €",
-            "imagen": "../images/noragami.webp"
+            "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/05/thumb_4871_albumes_big.jpeg"
         },
         "chainsaw-man": {
             "nombre": "Chainsaw man 01",
@@ -115,7 +115,7 @@
             "ISBN": 9788467941159,
             "color": "B/N",
             "precio": "8,55 €",
-            "imagen": "../images/chainsaw_man.jpeg"
+            "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/07/thumb_6655_albumes_big.jpeg"
         },
         "black-cover": {
             "nombre": "Black Cover 01",
@@ -128,7 +128,7 @@
             "ISBN": 9788467926569,
             "color": "B/N",
             "precio": "7,60 €",
-            "imagen": "../images/black_clover.jpeg"
+            "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/image/588x473/9df78eab33525d08d6e5fb8d27136e95/b/l/black-clover-1.jpg"
         },
         "akira": {
             "nombre": "Akira 01",
@@ -141,7 +141,7 @@
             "ISBN": 9788498143591,
             "color": "Color",
             "precio": "18,95 €",
-            "imagen": "../images/akira.jpeg"
+            "imagen": "https://www.normaeditorial.com/upload/media/albumes/0001/02/thumb_1439_albumes_big.jpeg"
         }
     }
 }
