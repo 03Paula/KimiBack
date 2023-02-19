@@ -13,12 +13,12 @@
             "nombre": "rosa",
             "apellidos": "Rodriguez Ceballo",
             "email": "rosasa@gmail.com",
-            "nombreusu": "larosa",
+            "nombreusu": "rosa",
             "contraseña": "Pestillo123",
             "direcciones": "",
             "tarjetas": ""
         },
-        "superusu": {
+        "usuario": {
             "nombre": "usuario",
             "apellidos": "usu sus",
             "email": "superusu666@gmail.com",
