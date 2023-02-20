@@ -10,7 +10,7 @@
             "ISBN": "4580590127807",
             "tamaño": "10 cm",
             "precio": "60,33 €",
-            "imagen": "../images/figure-eren-yeager.jpeg"
+            "imagen": "https://percalandia.com/17557-home_default/figura-nendoroid-attack-on-titan-eren-yeager-10-cm.jpg"
         },
         "rei":{
             "nombre": "FIGURA REI AYANAMI VER. LONG HAIR ",
@@ -22,7 +22,7 @@
             "ISBN": "4580779503002",
             "tamaño": "21 cm",
             "precio": "22,33 €",
-            "imagen": "../images/rei-ayanami.jpeg"
+            "imagen": "https://www.ociostock.com/productos/imagenes/img_261203_ffc3d9aa0c32cc7db077349ecdc2a6e4_20.jpg"
         },
         "zenitsu": {
             "nombre": "FIGURA ZENITSU AGATSUMA",
@@ -34,7 +34,7 @@
             "ISBN": "4983164177404",
             "tamaño": "24 cm",
             "precio": "33,06 €",
-            "imagen": "../images/zenitsu.jpeg"
+            "imagen": "https://m.media-amazon.com/images/I/71NHt+q-vlL._AC_SX569_.jpg"
         },
         "miku":{
             "nombre": "FIGURA HATSUNE MIKU CASUAL WEAR ",
@@ -46,7 +46,7 @@
             "ISBN": "662248844077",
             "tamaño": "13cm",
             "precio": "26,60 €",
-            "imagen": "../images/hatsune-miku.jpeg"
+            "imagen": "https://ae01.alicdn.com/kf/S42d87344e4f4456b90354de5c4e6a907k/Taito-Hatsune-Miku-Vocaloid-Noodle-Stopper-pijamas-ropa-informal-ordinaria-postura-sentada-figuritas-Anime-figura-de.jpg_Q90.jpg_.webp"
         },
         "anya":{
             "nombre": "FIGURA ANYA FORGER RENEWAL EDITION SMILE",
@@ -58,7 +58,7 @@
             "ISBN": "662248844107",
             "tamaño": "14 cm",
             "precio": "25,65 €",
-            "imagen": "../images/anya.jpeg"
+            "imagen": "https://www.padis-store.com/35224-medium_default/figura-anya-forger-renewal-edition-spy-x-family-.jpg"
         }
     }
 }
